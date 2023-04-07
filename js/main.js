@@ -22,9 +22,9 @@ function firstQuestion(){
     Swal.fire({
         title: CONFIG.introTitle,
         text: CONFIG.introDesc,
-        imageUrl: 'https://scontent.fhan2-5.fna.fbcdn.net/v/t39.30808-6/338013098_771286031002556_5892835683120789422_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=sj5-r7q_PfwAX-O0TX0&_nc_ht=scontent.fhan2-5.fna&oh=00_AfD_VCTTjLJ6BJ2etfHfkC5U5rIk-RYRqALthns_KlCbIg&oe=64346EFD',
-        imageWidth: 350,
-        imageHeight: 350,
+        imageUrl: 'https://scontent.fhan2-5.fna.fbcdn.net/v/t1.15752-9/206984454_1262778357481507_1081068939576283683_n.png?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=EmWpbVnxvHgAX9bTIld&_nc_ht=scontent.fhan2-5.fna&oh=03_AdTXu4t2c1baM5iJDWJ2ndFzpw1QQDHOMljMaLMwMgyxwA&oe=6457B3B1',
+        imageWidth: 400,
+        imageHeight: 400,
         background: '#fff url("img/iput-bg.jpg")',
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
