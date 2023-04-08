@@ -22,7 +22,7 @@ function firstQuestion(){
     Swal.fire({
         title: CONFIG.introTitle,
         text: CONFIG.introDesc,
-        imageUrl: 'https://scontent.fhan2-5.fna.fbcdn.net/v/t1.15752-9/306013631_463248872424560_8495316728767507551_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=QvC0xSQyAhMAX-1I_Ky&_nc_ht=scontent.fhan2-5.fna&oh=03_AdSh4dUHrV5dR1fFp5DqPGO7bpEJLN30ntkALREs6J8IRg&oe=64579FE1',
+        imageUrl: 'https://scontent.fhan2-4.fna.fbcdn.net/v/t39.30808-6/270538731_1597043483975731_5815842452163214586_n.png?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=XbgUUWOr0boAX_kLl_0&_nc_ht=scontent.fhan2-4.fna&oh=00_AfCLxwMTLpHduu_RuqdEcnt9ZA5-aGdEOisB5UdPtu5pHQ&oe=64358D6A',
         imageWidth: 400,
         imageHeight: 400,
         background: '#fff url("img/iput-bg.jpg")',
